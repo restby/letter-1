@@ -127,7 +127,7 @@
     "body": [
       "<!-- Two different width cols section -->",
       "<tr>",
-      "  <td align=\"center\" class=\"$3 mobile-padding two-cols\"> style=\"font-size: 0;\"",
+      "  <td align=\"center\" class=\"$3 mobile-padding two-cols\" style=\"font-size: 0;\">",
       "<!--[if (gte mso 9)|(IE)]>",
       "    <table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" role=\"presentation\">",
       "      <tr>",
